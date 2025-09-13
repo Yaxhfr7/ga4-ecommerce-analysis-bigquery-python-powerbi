@@ -1,12 +1,12 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# 🛒 E-commerce Conversion Rate Analysis – Google Analytics 4
+
+#  E-commerce Conversion Rate Analysis – Google Analytics 4
 
 _Optimizing e-commerce conversion rates through comprehensive funnel analysis using BigQuery, Python, and data visualization to bridge the gap from 1.88% to 2.5% target conversion._
 
 ***
 
-## 📌 Table of Contents
+## Table of Contents
 
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
@@ -246,5 +246,5 @@ Data Analyst \& E-commerce Analytics Specialist
 🔗 LinkedIn: [https://www.linkedin.com/in/yash-tyagi-9a38b1350/)
 🐙 GitHub: [GitHub Profile](https://github.com/Yaxhfr7)
 
-*Specializing in conversion rate optimization, user behavior analysis, and data-driven marketing strategies.*
+
 
